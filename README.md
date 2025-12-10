@@ -44,4 +44,8 @@ Para popular o banco de dados Neo4j com os dados deste projeto, execute o script
 3.  Criar os nós de `User`, `Actor`, `Director`, `Movie` e `Series`.
 4.  Criar os relacionamentos entre os nós.
 
+Após executar o script, você terá um banco de dados Neo4j populado com os dados do serviço de streaming.
+Para visualizar o grafo, execute o seguinte comando no Neo4j:
+\\\MATCH (n) RETURN n;\\\
+
 Você pode executar o script no Neo4j Browser ou usando o `cypher-shell`.
