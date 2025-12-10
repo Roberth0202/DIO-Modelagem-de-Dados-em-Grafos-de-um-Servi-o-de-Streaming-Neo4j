@@ -1,4 +1,4 @@
-# **🎬 Modelagem de Dados em Grafos — Serviço de Streaming
+# 🎬 Modelagem de Dados em Grafos — Serviço de Streaming
 
 Este projeto demonstra um modelo de dados em grafo para um serviço de streaming, implementado com Cypher para Neo4j.
 
