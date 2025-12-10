@@ -1,4 +1,4 @@
-# Modelagem de Dados em Grafos — Serviço de Streaming
+# **🎬 Modelagem de Dados em Grafos — Serviço de Streaming
 
 Este projeto demonstra um modelo de dados em grafo para um serviço de streaming, implementado com Cypher para Neo4j.
 
@@ -46,6 +46,8 @@ Para popular o banco de dados Neo4j com os dados deste projeto, execute o script
 
 Após executar o script, você terá um banco de dados Neo4j populado com os dados do serviço de streaming.
 Para visualizar o grafo, execute o seguinte comando no Neo4j:
-\\\MATCH (n) RETURN n;\\\
+```cypher
+MATCH (n) RETURN n;
+```
 
 Você pode executar o script no Neo4j Browser ou usando o `cypher-shell`.
